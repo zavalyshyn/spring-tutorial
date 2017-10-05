@@ -35,12 +35,12 @@ public class GeoLocation implements Serializable{
 		this.userId = userId;
 	}
 	
-	public long getTimeStamp() {
+	public long getTimestamp() {
 		return timestamp;
 	}
 	
-	public void setTimeStamp(long timeStamp) {
-		this.timestamp = timeStamp;
+	public void setTimestamp(long timestamp) {
+		this.timestamp = timestamp;
 	}
 
 }
