@@ -12,3 +12,6 @@ curl -H "Content-Type: application/json" -X POST -d '{"timestamp": 1468203975, "
 
 
 curl http://localhost:8080/geolocation
+
+Original code here:
+https://github.com/PacktPublishing/Microservices-Deployment-Cookbook
